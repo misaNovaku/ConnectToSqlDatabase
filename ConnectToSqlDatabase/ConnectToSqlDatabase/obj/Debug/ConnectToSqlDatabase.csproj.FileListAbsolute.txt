@@ -1,0 +1,6 @@
+c:\users\prog_log\documents\visual studio 2015\Projects\ConnectToSqlDatabase\ConnectToSqlDatabase\bin\Debug\ConnectToSqlDatabase.exe.config
+c:\users\prog_log\documents\visual studio 2015\Projects\ConnectToSqlDatabase\ConnectToSqlDatabase\bin\Debug\ConnectToSqlDatabase.exe
+c:\users\prog_log\documents\visual studio 2015\Projects\ConnectToSqlDatabase\ConnectToSqlDatabase\bin\Debug\ConnectToSqlDatabase.pdb
+c:\users\prog_log\documents\visual studio 2015\Projects\ConnectToSqlDatabase\ConnectToSqlDatabase\obj\Debug\ConnectToSqlDatabase.csprojResolveAssemblyReference.cache
+c:\users\prog_log\documents\visual studio 2015\Projects\ConnectToSqlDatabase\ConnectToSqlDatabase\obj\Debug\ConnectToSqlDatabase.exe
+c:\users\prog_log\documents\visual studio 2015\Projects\ConnectToSqlDatabase\ConnectToSqlDatabase\obj\Debug\ConnectToSqlDatabase.pdb
